@@ -1,0 +1,58 @@
+{
+  "name": "update NFT ",
+  "symbol": "SOL",
+  "description": "this is the update one",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/woosol86/assets/main/update.png",
+  "external_url": "www.google.com",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleBlue"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "sea foam"
+    },
+    {
+      "trait_type": "Noses",
+      "value": "walnut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "rainbow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bbq9A8P1ojsGAiP1CNmgaF6LnsJGb4s17XNATwMFGRXw",
+        "share": 100
+      }
+    ]
+  }
+}
