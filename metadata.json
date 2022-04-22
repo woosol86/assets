@@ -3,7 +3,7 @@
   "symbol": "SOL",
   "description": "this is the update one",
   "seller_fee_basis_points": 1000,
-  "image": "https://le5wgwe5r3zfce3rbyhmr4l5ojfwmk3dv2lryamywah3ubqg.arweave.net/WTtjWJ2O8lETcQ4OyPF9-cktmK2OulxwBmLAPug-YGo?ext=mp4",
+  "image": "https://raw.githubusercontent.com/woosol86/assets/main/Rotating.gif",
   "external_url": "www.google.com",
   "edition": 1,
   "attributes": [
@@ -43,7 +43,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://le5wgwe5r3zfce3rbyhmr4l5ojfwmk3dv2lryamywah3ubqg.arweave.net/WTtjWJ2O8lETcQ4OyPF9-cktmK2OulxwBmLAPug-YGo?ext=mp4",
+        "uri": "https://raw.githubusercontent.com/woosol86/assets/main/Rotating.gif",
         "type": "image/png"
       }
     ],
