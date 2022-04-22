@@ -1,9 +1,9 @@
 {
-  "name": "update NFT ",
+  "name": "update NFT MP4",
   "symbol": "SOL",
   "description": "this is the update one",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/woosol86/assets/main/update.png",
+  "image": "https://raw.githubusercontent.com/woosol86/assets/main/mp4updatetest.mp4",
   "external_url": "www.google.com",
   "edition": 1,
   "attributes": [
@@ -43,7 +43,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/woosol86/assets/main/update.png",
+        "uri": "https://raw.githubusercontent.com/woosol86/assets/main/mp4updatetest.mp4",
         "type": "image/png"
       }
     ],
